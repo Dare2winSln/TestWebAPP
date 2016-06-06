@@ -11,10 +11,4 @@ public partial class _Default : Page
     {
 
     }
-
-    public void Calculate()
-    {
-        var x = 10;
-        x = x / 0;
-    }
 }
